@@ -24,7 +24,6 @@
 [![License](https://img.shields.io/badge/Licença-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 <br>
-
 > Feito com 💙 por **[yKauttiz](https://github.com/yKauttiz)**
 
 <br>
